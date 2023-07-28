@@ -1,4 +1,4 @@
-# Examination-Checker
+## Examination-Checker
 Exam checker
 
 You can test this on this website: https://earlwinczar.github.io/Examination-Checker/
